@@ -1,0 +1,54 @@
+body{
+    /*background-image: url("../img/wallpaper_save_it.jpg");*/
+}
+
+
+
+.jumbotron {
+    background-color: white;
+    padding: 0px;
+}
+
+.navbar-brand-centered{
+  text-align: center;
+  width: 100%;
+}
+
+/*********************************************/
+
+#login-container{
+    margin: 50px auto 0;
+    padding: 10px;
+    background-color: white;
+    border-radius: 10px;
+    max-width: 300px;
+    box-shadow: 20px 20px 50px grey;
+}
+
+/*Sign Up Page*/
+#signup-container{
+    margin: 50px auto 0;
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    line-height: 30px;
+}
+
+/*Log In Page
+#login-container{
+    margin: 50px auto 0;
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    line-height: 30px;
+}
+*/
+
+/*Home Page*/
+#home-container{
+    margin: 50px auto 0;
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    line-height: 30px;
+}
